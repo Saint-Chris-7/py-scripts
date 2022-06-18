@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\HP\Documents\Dev\Pyscripts\traceBack.py", line 3, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
